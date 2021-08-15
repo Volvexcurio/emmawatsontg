@@ -47,7 +47,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Main Channel", url="https://t.me/joinchat/Od06qI9XIFk0ZGVl"),
+                    InlineKeyboardButton("Creator", url="https://t.me/Curio_VolvEX"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
